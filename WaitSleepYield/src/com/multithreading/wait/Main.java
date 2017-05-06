@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		Message msg = new Message("process it");
 		Waiter waiter = new Waiter(msg);
+		
 		new Thread(waiter, "waiter").start();
 
 		Waiter waiter1 = new Waiter(msg);
