@@ -1,9 +1,9 @@
 package com.multithreading;
 
-public class Wait {
+public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("wait");
+		System.out.println("multithreading demo");
 
 	}
 
