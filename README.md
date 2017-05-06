@@ -1,2 +1,7 @@
-# Multithreading
-Java Multithreading
+# Java Multithreading
+
+    Wait
+    sleep
+    yield
+    synchronized
+    volatile
